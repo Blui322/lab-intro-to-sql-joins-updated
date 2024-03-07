@@ -29,7 +29,7 @@ CREATE DATABASE purchases;
 -- ('Alex', 'Taylor', 'alex.taylor@example.com'),
 -- ('Jordan', 'Lee', 'jordan.lee@example.com'),
 -- ('Casey', 'Morgan', 'casey.morgan@example.com'),
--- ('Riley', 'Quinn', 'riley.quinn@example.com');
+-- ('Riley', 'Quinn', 'riley.quinn@example.com'),
 -- ('Taylor', 'Morgan', 'taylor.morgan@example.com');
 
 
