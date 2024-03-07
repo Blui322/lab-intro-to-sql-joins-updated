@@ -38,7 +38,7 @@ CREATE DATABASE purchases;
 \echo - Create a table called orders
  with the following columns
 -- id serial primary KEY
--- customerID - references the id from customers table
+-- customerID 
 -- total - integer - amount cannot be less than 0
 -- isPaid - boolean 
 --
