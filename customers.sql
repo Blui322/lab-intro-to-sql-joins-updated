@@ -14,7 +14,7 @@ CREATE DATABASE purchases;
 -- id serial primary KEY
 -- firstname - string with 20 characters
 -- lastname - string with 50 characters
--- email - string with 20 characters(unable to be null)
+-- email - string with 30 characters(unable to be null)
 --
 
 --
